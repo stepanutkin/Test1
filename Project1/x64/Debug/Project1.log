@@ -1,0 +1,3 @@
+﻿  FileName.cpp
+C:\Programms\Project1\Project1\FileName.cpp(41,20): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Project1.vcxproj -> C:\Programms\Project1\x64\Debug\Project1.exe
